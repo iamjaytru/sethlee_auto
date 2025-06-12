@@ -37,3 +37,4 @@ export interface VehicleApiResponse {
     totalItems: number
   }
 }
+
